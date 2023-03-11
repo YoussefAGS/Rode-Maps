@@ -1,32 +1,3 @@
-  Skip to content
-    Search or jump to…
-    Pull requests
-    Issues
-    Codespaces
-    Marketplace
-    Explore
-
-    @YoussefAGS
-    RobertBrunhage
-    /
-    flutter-github-action
-    Public
-    Fork your own copy of RobertBrunhage/flutter-github-action
-    Code
-    Issues
-    Pull requests
-    2
-    Actions
-    Projects
-    Security
-    Insights
-    flutter-github-action/.github/workflows/ci.yml
-    @RobertBrunhage
-    RobertBrunhage Add no codesign for iOS
-    Latest commit 914ce62 on Sep 13, 2020
-    History
-    1 contributor
-    53 lines (50 sloc)  1.24 KB
 
   name: CI
   on:
